@@ -1,24 +1,10 @@
-# mini_game
+# mini_game 使用Vue3实现热门手游2048 和 Threes!
+试玩地址 https://sandyzla.github.io/#/
 
-## Project setup
-```
-npm install
-```
+游戏一：2048
+操作方式：键盘"wsad"或方向键移动滑块
+玩法：合并相同数字滑块
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+游戏二：Threes!(仿照Sirvo LLC工作室制作的手游Threes!)
+操作方式：鼠标拖拽移动滑块
+玩法：合并数字滑块，除数字1和2可以相互合并，其他同2048
