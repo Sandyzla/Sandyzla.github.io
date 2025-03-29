@@ -2,8 +2,7 @@
 链接：[mini-games](https://sandyzla.github.io/)
 ✨ 欢迎体验我的项目！此项目集合了三个有趣且令人着迷的游戏——“2048”、“Three!”和“24点”！  
 整个项目仅使用 **Vite + Vue** 搭建，确保性能流畅、体验绝佳！  
-  过渡工具：**GSAP**
-  背景动画：灵感来源于 MDN 网站中的经典示例！  
+过渡工具：**GSAP**  背景动画：灵感来源于 MDN 网站中的经典示例！  
 链接：[MDN示例 - Bouncing Balls Features](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Adding_bouncing_balls_features)
 
 准备好了吗？来看看这三个游戏是如何让人欲罢不能的吧！
